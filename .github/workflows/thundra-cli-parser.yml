@@ -1,4 +1,4 @@
-name: Thundra cli Uploader
+name: Thundra cli parser
 
 on:
   workflow_dispatch:
