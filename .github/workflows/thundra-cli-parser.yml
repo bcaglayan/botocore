@@ -1,4 +1,4 @@
-name: Thundra Artifact Uploader
+name: Thundra cli Uploader
 
 on:
   workflow_dispatch:
